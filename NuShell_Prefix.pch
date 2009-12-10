@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'NuShell' target in the 'NuShell' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
