@@ -1,5 +1,8 @@
 Nu shell for iPhone
 
+About Nu:
+  http://programming.nu/about
+
 Prerequisites:
   Nu.h    : NU_SORCE_DIRECTORY/iphone/include/Nu/Nu.h
   libNu.a : NU_SORCE_DIRECTORY/iphone/libNu.a
